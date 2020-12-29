@@ -1,11 +1,17 @@
      # EFI-Z97-P
 This is an EFI file for "ASUS Z97-P" motherboard.
+
+
 Attention, check the BIOS version, BIOS < 2207 for Big Sur.
 
-Specs : 
+Specs :
+
       Processor: Intel i5-4460
+          
       RAM: 16 GB RAM
-      Video card: AMD Radeon RX 580
+      
+      GPU: AMD Radeon RX 580
+      
       Work with Catalina, Big Sur.
 
 
