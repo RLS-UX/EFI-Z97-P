@@ -1,7 +1,10 @@
 <h2 align="center">Asus Z97-P motherboard EFI</h2>
   
+![alt tag](https://i.ibb.co/FBnNQNz/Screen.jpg)  
+This is an EFI file for **"ASUS Z97-P"** motherboard.  
+  
 <h3 align="center">     Work with Mojave, Catalina & Big Sur.  </h3>  
-This is an EFI file for "ASUS Z97-P" motherboard.
+
 
 
 Attention, check the BIOS version **=>** **BIOS < 2207 for Big Sur.**
@@ -21,4 +24,4 @@ Attention, check the BIOS version **=>** **BIOS < 2207 for Big Sur.**
 You will need to generate a smbios, and put your MAC address in the config.plist.
 
 
-![alt tag](https://i.ibb.co/FBnNQNz/Screen.jpg)
+
