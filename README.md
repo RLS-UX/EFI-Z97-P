@@ -1,5 +1,6 @@
      # EFI-Z97-P
 This is an EFI file for "ASUS Z97-P" motherboard.
+Attention, check the BIOS version, BIOS < 2207 for Big Sur.
 
 Specs : 
       Processor: Intel i5-4460
