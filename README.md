@@ -4,7 +4,7 @@
 This is an EFI file for "ASUS Z97-P" motherboard.
 
 
-Attention, check the BIOS version, BIOS < 2207 for Big Sur.
+Attention, check the BIOS version **=>** **BIOS < 2207 for Big Sur.**
 
 | **Component**    | **Model**                                  |
 | ---------------- | ------------------------------------------ |
