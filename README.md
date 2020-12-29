@@ -1,18 +1,21 @@
-     # EFI-Z97-P
+<h2 align="center">Asus Z97-P motherboard EFI</h2>
+  
+<h3 align="center">     Work with Mojave, Catalina & Big Sur.  </h3>  
 This is an EFI file for "ASUS Z97-P" motherboard.
 
 
 Attention, check the BIOS version, BIOS < 2207 for Big Sur.
 
-Specs :
+| **Component**    | **Model**                                  |
+| ---------------- | ------------------------------------------ |
+| CPU              | Intel i5-4460 (4) @ 3.20GHz                |
+| Motherboard      | ASUS Z97-P                                 |
+| RAM              | 16GB (4 x 4GB) Corsair @ 1600MHz           |
+| Audio Chipset    | ALC-891                                    |
+| GPU              | Radeon RX 580                              |
+| WiFi & Bluetooth | Fenvi FV-HB1200 (BCM4360XX)                |
+| OS Disk (SSDM2)  | FORCE - MP510 240GB                        |
 
-      Processor: Intel i5-4460
-          
-      RAM: 16 GB RAM
-      
-      GPU: AMD Radeon RX 580
-      
-      Work with Catalina, Big Sur.
 
 
 You will need to generate a smbios, and put your MAC address in the config.plist.
